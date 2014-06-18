@@ -3,5 +3,7 @@
 var position : Vector3;
 
 function Awake () {
-	position = transform.position;
+	position = transfm.position;
+	fasdhulfdhajkn
+	432*$£"";
 }
